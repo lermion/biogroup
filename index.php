@@ -1,6 +1,5 @@
 <?php
 	$year = strftime("%Y");
-	$x = 10;
 ?>
 <!DOCTYPE html>
 <html>
