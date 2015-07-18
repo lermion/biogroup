@@ -1,5 +1,6 @@
 <?php
 	$year = strftime("%Y");
+	$age = 20;
 ?>
 <!DOCTYPE html>
 <html>
