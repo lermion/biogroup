@@ -1,5 +1,6 @@
 <?php
 	$year = strftime("%Y");
+	$month = "july";
 ?>
 <!DOCTYPE html>
 <html>
